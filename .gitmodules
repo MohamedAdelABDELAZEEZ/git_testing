@@ -1,0 +1,3 @@
+[submodule "argocd"]
+	path = argocd
+	url = https://github.com/panchanandevops/argocd-public.git
